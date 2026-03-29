@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Awais Ahmed Memon
-
+![Profile views](https://komarev.com/ghpvc/?username=afrom-dev&color=blue)
 💻 Computer Science Student
 📊 Interested in Data Analysis, Databases, and Backend Development
 🚀 Currently building projects and improving my programming skills
