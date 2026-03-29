@@ -1,12 +1,3 @@
-# 👋 Hi, I'm Awais Ahmed Memon
-![Profile views](https://komarev.com/ghpvc/?username=afrom-dev&color=blue)
-💻 Computer Science Student
-📊 Interested in Data Analysis, Databases, and Backend Development
-🚀 Currently building projects and improving my programming skills
-🎯 Goal: Internship in Software Development / Data / Backend
-
----
-
 ## 🚀 Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
@@ -20,6 +11,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 
 ---
+# 👋 Hi, I'm Awais Ahmed Memon
+![Profile views](https://komarev.com/ghpvc/?username=afrom-dev&color=blue)
+💻 Computer Science Student
+📊 Interested in Data Analysis, Databases, and Backend Development
+🚀 Currently building projects and improving my programming skills
+🎯 Goal: Internship in Software Development / Data / Backend
+
+---
+
 
 ## 👨‍💻 About Me
 
@@ -38,14 +38,6 @@ I enjoy working with data, building database systems, and developing backend app
 * ✅ To-Do List App
 * 📚 C++ Data Structures
 * ☕ Java OOP Project
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=afrom-dev\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrom-dev\&layout=compact)
 
 ---
 
