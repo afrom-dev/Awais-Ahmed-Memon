@@ -1,5 +1,3 @@
-## 🚀 Technologies & Tools
-
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
