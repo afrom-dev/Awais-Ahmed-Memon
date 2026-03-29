@@ -3,31 +3,32 @@
 💻 Computer Science Student
 📊 Interested in Data Analysis, Databases, and Backend Development
 🚀 Currently building projects and improving my programming skills
-🎯 Goal: Software Development / Data / Backend Internship
+🎯 Goal: Internship in Software Development / Data / Backend
 
 ---
 
 ## 🚀 Technologies & Tools
 
-* **Languages:** C++, Java, Python
-* **Databases:** MySQL, MongoDB
-* **Web:** HTML, CSS
-* **Tools:** Git, GitHub
-* **Concepts:** Data Structures, OOP, Database Design, Data Analysis
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student with an interest in **Data Analysis, Database Management, and Backend Development**.
-I enjoy working with data, designing databases, and building backend systems that solve real-world problems.
-Currently, I am focusing on building projects and strengthening my programming and problem-solving skills.
+I am a Computer Science student interested in **Data Analysis, Database Management, and Backend Development**.
+I enjoy working with data, building database systems, and developing backend applications for real-world problems.
 
 ---
 
 ## 📂 Projects
-
-Here are some of the projects I am working on:
 
 * 🎓 Student Management System
 * 📊 Data Analysis Project (Python)
@@ -35,20 +36,22 @@ Here are some of the projects I am working on:
 * 🍃 MongoDB NoSQL Project
 * 🌐 Portfolio Website
 * ✅ To-Do List App
-* 📚 C++ Data Structures Implementation
+* 📚 C++ Data Structures
 * ☕ Java OOP Project
 
 ---
 
 ## 📊 GitHub Stats
 
-(Add GitHub stats image here later)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=afrom-dev\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrom-dev\&layout=compact)
 
 ---
 
 ## 🎯 Career Goal
 
-My goal is to build a career in **Data Analysis, Database Management, or Backend Development**, and contribute to real-world software and data projects while continuously learning new technologies.
+I want to build my career in **Data Analysis, Database Management, or Backend Development** and work on real-world projects.
 
 ---
 
