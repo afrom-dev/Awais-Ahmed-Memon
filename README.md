@@ -9,20 +9,20 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 
-![Profile views](https://komarev.com/ghpvc/?username=afrom-dev&color=blue)
-
-💻 Computer Science Student
-📊 Interested in Data Analysis, Databases, and Backend Development
-🚀 Currently building projects and improving my programming skills
-🎯 Goal: Internship in Software Development / Data / Backend
+💻 What I'm Currently Doing
+Building programming projects in C++, Java, and Python
+Learning Data Structures & Algorithms
+Working with MySQL and MongoDB databases
+Creating a portfolio website
+Uploading projects regularly on GitHub
 
 ---
 
 
 ## 👨‍💻 About Me
 
-I am a Computer Science student interested in **Data Analysis, Database Management, and Backend Development**.
-I enjoy working with data, building database systems, and developing backend applications for real-world problems.
+I am a Computer Science student who enjoys solving problems, working with databases, and building backend systems.
+Currently focusing on improving my programming, data analysis, and software development skills through projects.
 
 ---
 
